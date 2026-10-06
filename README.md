@@ -1,5 +1,9 @@
 <p align="center">
-  <strong>brim launcher</strong>
+  <img src="./assets/logobrim.svg" width="86" alt="Brim Launcher logo">
+</p>
+
+<p align="center">
+  <img src="./assets/textbrim.svg" width="220" alt="brim">
 </p>
 
 <h1 align="center">A cleaner way to run Minecraft.</h1>
